@@ -1,2 +1,1 @@
-google-play-services_lib
-========================
+google-play-services library
